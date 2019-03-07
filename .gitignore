@@ -1,0 +1,27 @@
+src/
+input_data/
+*.pyc
+.ipynb_checkpoints/
+.vscode
+*_tmp.py
+save*
+nohup*
+tmp/
+tmp*
+data/
+*~
+keras_weights/
+vis/
+model/
+*.log
+out*
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
